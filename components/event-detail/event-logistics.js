@@ -29,5 +29,4 @@ function EventLogistics(props) {
     </section>
   );
 }
-
 export default EventLogistics;
